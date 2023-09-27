@@ -1,2 +1,3 @@
 # CodeZee
-A technical blog website using HTML, CSS and Bootstrap.
+
+Link to website : https://fluffy-frangollo-a31dcc.netlify.app/
